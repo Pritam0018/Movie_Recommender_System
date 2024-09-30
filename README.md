@@ -7,12 +7,12 @@
 ### Approach: ###
 
 1. Data Collection
-2. 
-3. Data Preprocessing
+ 
+2. Data Preprocessing
 
-4. Feature Extraction
+3. Feature Extraction
 
-5. Cosine Similarity Calculation:
+4. Cosine Similarity Calculation:
 
 ->Implemented cosine similarity to assess the proximity between movie vectors.
 
