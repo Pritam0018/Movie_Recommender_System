@@ -24,4 +24,4 @@
 
 Integrated IMDB API to dynamically fetch movie posters and metadata based on user-selected movie titles, enhancing the user interface and overall experience of the movie recommender system.
 
-![Alt text](https://github.com/Pritam0018/Stock_Market_Forecasting/blob/main/data/LSTM.png)
+![Alt text](https://github.com/Pritam0018/Movie_Recommender/blob/main/data/output.png)
